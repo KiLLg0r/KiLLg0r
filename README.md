@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killg0r&label=Profile%20views&color=0e75b6&style=flat" alt="killg0r" /> </p>
 
-- 🔭 I’m currently working on [Volunteerish NextJS](https://github.com/KiLLg0r/Volunteerish-NextJS/)
+- 🔭 I’m currently working on [SyncSpace](https://github.com/KiLLg0r/SyncSpace/)
 
 - 🌱 I’m currently learning **NextJS and Google Cloud Functions**
 
