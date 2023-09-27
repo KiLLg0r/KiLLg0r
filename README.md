@@ -13,9 +13,9 @@
 ###
 
 <div align="center">
+  <img height="150" src="https://firebasestorage.googleapis.com/v0/b/sync-space-1ebab.appspot.com/o/giphy.gif?alt=media&token=501b2f16-cdef-40d2-8d6f-3f8f42af6a3a"  />
   <img src="https://github-readme-stats.vercel.app/api?username=KiLLg0r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KiLLg0r&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false" height="150" alt="languages graph"  />
-  <img align="left" height="150" src="https://firebasestorage.googleapis.com/v0/b/sync-space-1ebab.appspot.com/o/giphy.gif?alt=media&token=501b2f16-cdef-40d2-8d6f-3f8f42af6a3a"  />
 </div>
 
 ###
