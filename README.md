@@ -8,6 +8,16 @@
 
 ###
 
+- 🔭 I’m currently working on [SyncSpace](https://github.com/KiLLg0r/SyncSpace/)
+
+- 🌱 I’m currently learning **Django and RESTful APIs**
+
+- 💬 Ask me about **NextJS, JavaScript and SCSS**
+
+- 📫 How to reach me **rob.oblesniuc@gmail.com**
+
+###
+
 <h3 align="left">Stats 📈</h3>
 
 ###
