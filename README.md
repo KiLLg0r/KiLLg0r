@@ -8,9 +8,9 @@
 
 ###
 
-- 🔭 I’m currently working on my [Portfolio](https://github.com/KiLLg0r/portfolio/)
+- 🔭 I’m currently working on my [Polyglot](https://github.com/KiLLg0r/Polyglot/)
 
-- 🌱 I’m currently learning **Django and RESTful APIs**
+- 🌱 I’m currently learning **TypeScript and RESTful APIs**
 
 - 💬 Ask me about **NextJS, JavaScript and SCSS**
 
